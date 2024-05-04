@@ -1,0 +1,26 @@
+.error-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error-image {
+  width: 320px;
+}
+
+error-heading {
+  font-family: 'Roboto';
+  color: #1e293b;
+  letter-spacing: 0.6px;
+  margin: 0;
+  margin-left: 9px;
+}
+
+.error-description {
+  font-family: 'Roboto';
+  font-size: '13px';
+  font-weight: '500';
+  color: #475569;
+}

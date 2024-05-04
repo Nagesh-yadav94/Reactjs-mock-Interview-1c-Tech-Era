@@ -1,0 +1,26 @@
+.link-item {
+  text-decoration: none;
+}
+
+.list-item {
+  width: 135px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 11px;
+  border: none;
+  border-radius: 7px;
+}
+
+.list-image {
+  width: 57px;
+  margin-right: 5px;
+}
+
+.list-name {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 700;
+  color: #475569;
+}
